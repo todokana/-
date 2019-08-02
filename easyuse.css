@@ -1,0 +1,35 @@
+@charset "utf-8";
+*{
+	margin: 0 auto;padding: 0;
+}
+a{
+	color: #000000;text-decoration: none;
+}
+ul,ol,li{
+	list-style: none;
+}
+img{
+	display: block;
+}
+p{
+	word-wrap: break-word;
+}
+table{border-collapse:collapse;border-spacing:0;}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.hidden{
+	overflow: hidden;
+}
+.block{
+	display: block;
+}
+.inline-block{
+	display: inline-block;
+}
+.relative{
+	position: relative;
+}
